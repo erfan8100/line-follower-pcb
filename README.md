@@ -1,7 +1,7 @@
 # Adaptive Line-Following Electronic Board for Sustainable Robotics
 
 **An open-source, low-cost PCB for line-following robots, integrating adaptive control and recycled materials to advance sustainability in robotics education and precision agriculture.**
-
+more on DOI: 10.36227/techrxiv.174239980.06473545/v1
 ---
 
 ## Overview
