@@ -38,7 +38,7 @@ Aligned with **UN SDGs 4 (Education)**, **9 (Industry)**, and **12 (Sustainabili
 
 ### For Manufacturers  
 1. **Order PCBs**:  
-   - Submit `/gerber` files to a PCB fab (e.g., [JLCPCB](https://jlcpcb.com)).  
+   - Submit project files to a PCB fab (e.g., [JLCPCB](https://jlcpcb.com)).  
    - Use FR-4 with ≥70% recycled substrate for sustainability.  
 
 2. **Assemble Components**:  
@@ -58,7 +58,7 @@ This work is licensed under the **[CERN Open Hardware Licence v1.2](LICENSE)**. 
 We welcome improvements!  
 1. **Report Issues**: Open a GitHub Issue for bugs or suggestions.  
 2. **Submit Pull Requests**: Follow our [contribution guidelines](CONTRIBUTING.md).  
-3. **Share Use Cases**: Email `erfan.sotoodeh@gmail.com` with your projects.  
+3. **Share Use Cases**: Email `ethan.sotoodeh81@gmail.com` with your projects.  
 
 ---
 
