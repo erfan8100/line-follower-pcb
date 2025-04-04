@@ -1,4 +1,6 @@
-![certification-mark-IR000001-stacked](https://github.com/user-attachments/assets/c3395ff3-e127-4349-a6cb-94514ce2324d)# Adaptive Line-Following Electronic Board for Sustainable Robotics
+![certification-mark-IR000001-wide](https://github.com/user-attachments/assets/5d2d3e75-c5ee-4787-9804-4251efcf152b)![certification-mark-IR000001-stacked](https://github.com/user-attachments/assets/c3395ff3-e127-4349-a6cb-94514ce2324d)
+
+# Adaptive Line-Following Electronic Board for Sustainable Robotics
 
 
 
